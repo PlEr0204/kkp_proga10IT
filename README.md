@@ -1,1 +1,2 @@
-# kkp_proga10IT
+# Все решения и универскальные проги 
+#kkp_proga by PlEr
